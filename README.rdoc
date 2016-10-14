@@ -1,0 +1,6 @@
+== README
+
+This is going to be my first e-commerce application revolving around natural fitness products.
+It will be created with ruby 2.3.1 and rails 4.2
+
+
